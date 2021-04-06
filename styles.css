@@ -1,0 +1,29 @@
+  body{Background-color:#ffe6e6}
+    hr{Background-color:#ffe6e6;
+    	border-color:#ffb3b3;
+       border-style:dotted none none none;
+       border-width:50px;
+       width:25%;
+       }
+    table {
+  	border-width: 5px;
+  	background-color: #ccffdd;
+	}
+	tr, td {
+  	padding: 18px; 
+	}
+	table{
+  		border-spacing: 15px;
+	}
+	h1{
+		color:blue;
+	}
+	h2{
+		color:blue;
+	}
+	h3{
+		color:blue;
+	}
+	summary{
+		color:blue
+		}
